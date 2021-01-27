@@ -13,7 +13,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
+    "https://drive.google.com/file/d/16nbeAN-mrZRaRuPHupt0jNoN9TTYomFh/view?usp=sharing",
   portfolio_repository: "https://github.com/param-29/masterPortfolio",
 };
 
@@ -186,7 +186,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internships and Volunteership",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I have worked with many evolving startups as ML and DL Developer. I have also worked with some well established companies as part of internship. I love organising events and that is why I am also involved with many communities as a representative.",
   header_image_path: "experience.svg",
   sections: [
     {
